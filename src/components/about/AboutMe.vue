@@ -6,12 +6,12 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Automation Engineer graduate, adept front-end developer focusing on JavaScript mobile-first development. After initialice with Vue.js front-end development, I am eager to continue my career by joining a hardworking and interactive team where I will continue expanding my JavaScript knowledge into perfecting accessibility and responsive design.',
 				},
 				{
 					id: 2,
 					bio:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'I have strong knowledge of: HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind, Flutter and SQL. I am familiar with Node.js in back-end scenario. Enthusiast of Multi-platform front-end development with Flutter',
 				},
 			],
 		};
@@ -24,7 +24,7 @@ export default {
 		<!-- About profile image -->
 		<div class="w-full sm:w-1/4 mb-7 sm:mb-0">
 			<img
-				src="@/assets/images/profile.jpeg"
+				src="@/assets/images/profile.jpg"
 				class="rounded-xl w-96"
 				alt=""
 			/>
