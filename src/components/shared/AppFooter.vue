@@ -10,26 +10,27 @@ export default {
 					id: 1,
 					name: 'GitHub',
 					icon: 'github',
-					url: 'https://github.com/realstoman',
+					url: 'https://github.com/leoNavarro95',
 				},
 				{
 					id: 2,
 					name: 'Twitter',
 					icon: 'twitter',
-					url: 'https://twitter.com/realstoman',
+					url: 'https://twitter.com/LeoNavarro95',
 				},
+
 				{
 					id: 3,
-					name: 'Medium',
-					icon: 'book',
-					url: 'https://stoman.medium.com',
+					name: 'telegram',
+					icon: 'message-circle',
+					url: 'https://t.me/LeoAutomation',
 				},
 				{
 					id: 4,
-					name: 'Instagram',
-					icon: 'instagram',
-					url: 'https://instagram.com/realstoman',
-				},
+					name: 'email',
+					icon: 'mail',
+					url: 'mailto:potty3800@gmail.com',
+				}
 			],
 		};
 	},
