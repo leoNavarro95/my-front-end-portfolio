@@ -1,12 +1,11 @@
-# Vuejs & TailwindCSS Portfolio - With Dark Mode
+# LeoNavarro Portfolio
 
-A simple portfolio starter theme built with Vue.js v3 and TailwindCSS v2.
+This is my personal portfolio (coming soon link to deploy).
 
-![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/140909796-815239e4-a986-46ad-bbd0-4b166127bbb8.JPG)
+![Vuejs-TailwindCSS-Portfolio](/public/readme-images/portfolio-mainpage.png)
 
-## Demo URL
-
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
+## Based in
+Template from [@realstoman](https://github.com/realstoman), thanks for this awesome project
 
 ## Features
 
@@ -65,9 +64,5 @@ npm run serve
 ## Notes
 
 -   Always run `npm install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/c/StomanStudio). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
 -   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
 -   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
