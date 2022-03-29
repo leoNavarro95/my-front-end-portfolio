@@ -5,8 +5,9 @@ export default {
 </script>
 
 <template>
+		<!-- to="/projects/single-project" -->
 	<router-link
-		to="/projects/single-project"
+		:to="project.route"
 		class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
 		aria-label="Single Project"
 	>
@@ -14,7 +15,7 @@ export default {
 			<img
 				:src="project.img"
 				:alt="project.title"
-				class="rounded-t-xl border-none"
+				class="object-fit w-full h-48 rounded-t-xl border-none"
 			/>
 		</div>
 		<div class="text-center px-4 py-6">

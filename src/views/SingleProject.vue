@@ -139,24 +139,22 @@ export default {
 				relatedProjects: [
 					{
 						id: 1,
-						title: 'Mobile UI',
-						img: require('@/assets/images/mobile-project-1.jpg'),
+						title: 'Personal journal',
+						category: 'Web Application',
+						img: require('@/assets/images/web-project-1-PersonalJournal.png'),
 					},
 					{
 						id: 2,
-						title: 'Web Application',
-						img: require('@/assets/images/web-project-1.jpg'),
+						title: 'Ktao-App',
+						category: 'Mobile Application',
+						img: require('@/assets/images/mobile-project-2.jpg'),
 					},
 					{
 						id: 3,
-						title: 'UI Design',
-						img: require('@/assets/images/ui-project-2.jpg'),
-					},
-					{
-						id: 4,
-						title: 'Kabul Mobile App UI',
-						img: require('@/assets/images/mobile-project-2.jpg'),
-					},
+						title: 'Pokemon Game',
+						category: 'Web Application',
+						img: require('@/assets/images/web-project-Pokemon.png'),
+					}
 				],
 			},
 		};
