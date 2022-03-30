@@ -106,13 +106,13 @@ export default {
 						id: 1,
 						name: 'Twitter',
 						icon: 'twitter',
-						url: 'https://twitter.com/realstoman',
+						url: 'https://twitter.com/',
 					},
 					{
 						id: 2,
 						name: 'Instagram',
 						icon: 'instagram',
-						url: 'https://instagram.com/realstoman',
+						url: 'https://instagram.com/',
 					},
 					{
 						id: 3,
@@ -125,13 +125,7 @@ export default {
 						name: 'LinkedIn',
 						icon: 'linkedin',
 						url: 'https://linkedin.com/',
-					},
-					{
-						id: 5,
-						name: 'Youtube',
-						icon: 'youtube',
-						url: 'https://www.youtube.com/c/StomanStudio',
-					},
+					}
 				],
 			},
 			relatedProject: {
