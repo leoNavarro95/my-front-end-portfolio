@@ -1,5 +1,6 @@
 <script>
 import feather from 'feather-icons';
+import projects from '../data/projects.js'
 import ProjectHeader from '../components/projects/ProjectHeader.vue';
 import ProjectGallery from '../components/projects/ProjectGallery.vue';
 import ProjectInfo from '../components/projects/ProjectInfo.vue';
@@ -7,6 +8,14 @@ import ProjectRelatedProjects from '../components/projects/ProjectRelatedProject
 
 export default {
 	name: 'Projects',
+
+	props: {
+		project_id : {
+			type: Number,
+			required: true
+		}
+	},
+
 	components: {
 		ProjectHeader,
 		ProjectGallery,
@@ -15,6 +24,7 @@ export default {
 	},
 	data: () => {
 		return {
+			projects,
 			singleProjectHeader: {
 				singleProjectTitle: 'Project Management UI',
 				singleProjectDate: 'Jul 26, 2021',
@@ -165,6 +175,9 @@ export default {
 
 <template>
 	<div class="container mx-auto mt-10 sm:mt-20">
+		<p class="dark:text-white" >Project-id: {{ project_id }}</p>
+		<p class="dark:text-white" >Project-title: {{ projects[project_id - 1].title }}</p>
+		
 		<!-- Project header -->
 		<ProjectHeader :singleProjectHeader="singleProjectHeader" />
 

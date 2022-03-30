@@ -32,7 +32,7 @@ const routes = [
 		},
 	},
 	{
-		path: '/projects/single-project',
+		path: '/projects/:project_id',
 		name: 'Single Project',
 		component: () =>
 			import(
@@ -41,6 +41,11 @@ const routes = [
 		meta: {
 			title: 'LeoNavarro - Single Project',
 		},
+		props: ( route ) =>{
+			const project_id = Number( route.params.project_id)
+
+			return isNaN( project_id ) ? { project_id: 1} : { project_id }
+		}
 	},
 	{
 		path: '/contact',
