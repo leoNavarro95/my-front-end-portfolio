@@ -26,19 +26,19 @@ const projects = [
 				title: 'Personal Journal Login',
 				img: require('@/assets/images/projects/personal journal/PersonalJournal-Login.png'),
 			},
-			{
-				id: 3,
-				title: 'Personal Journal Entry',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Entry.png'),
-			},
-			{
-				id: 4,
-				title: 'Personal Journal EntryEd',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-EntryEd.png'),
-			},
+			// {
+			// 	id: 3,
+			// 	title: 'Personal Journal Entry',
+			// 	img: require('@/assets/images/projects/personal journal/PersonalJournal-Entry.png'),
+			// },
+			// {
+			// 	id: 4,
+			// 	title: 'Personal Journal EntryEd',
+			// 	img: require('@/assets/images/projects/personal journal/PersonalJournal-EntryEd.png'),
+			// },
 			{
 				id: 5,
-				title: 'Personal Journal Login',
+				title: 'Personal Journal AddImg',
 				img: require('@/assets/images/projects/personal journal/PersonalJournal-AddImg.png'),
 			},
 		],
