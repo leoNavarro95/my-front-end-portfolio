@@ -42,8 +42,6 @@ export default {
 
 <template>
 	<div class="container mx-auto mt-10 sm:mt-20">
-		<p class="dark:text-white" >Project-id: {{ id }}</p>
-		<p class="dark:text-white" >Project-title: {{ project.title }}</p>
 		
 		<!-- Project header -->
 		<ProjectHeader :singleProjectHeader="project.singleProjectHeader" />
