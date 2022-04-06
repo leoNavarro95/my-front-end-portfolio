@@ -12,7 +12,7 @@ const projects = [
 
 		singleProjectHeader: {
 			singleProjectTitle: 'Web Personal Journal',
-			singleProjectDate: 'Jul 26, 2021',
+			singleProjectDate: 'Dec 23, 2021',
 			singleProjectTag: 'UI / Frontend',
 		},
 		projectImages: [
@@ -59,7 +59,7 @@ const projects = [
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
-				'The web will be designed to allows the user to simply writing down his thoughts and feelings to understand them more clearly. Also, it will allows to save pictures of the day to support the description. All this information will be saved in a section where each user can Login or Register with a system of password and email authentication',
+				'The web will be designed to allows the user to simply writing down his thoughts and feelings to understand them more clearly. Also, it will allows to save pictures of the day to support those thoughts and feelings. All this information will be saved in a section where each user can Login or Register with a system of password and email authentication',
 			technologies: [
 				{
 					title: 'Tools & Technologies',
@@ -78,7 +78,7 @@ const projects = [
 				{
 					id: 1,
 					details:
-						'In this project I had to learn many different things, one was a very difficult to me: to organice the code in a intuitive way. First I started to code with out any order, and that put me in a mess really fast. For that reason, I had to learn about project organization in modules and that saved me a lot of time later. In Vue is very easy by handle this issue and I learned fast how to do it, the key: modules.',
+						'In this project I had to learn many different things, one was a very difficult to me: to organice the code of a bigger project in a intuitive way. First I started to code with out any order of the folders structure, and that put me in a mess really fast. For that reason, I had to learn about project organization in modules and that saved me a lot of time later. In Vue is very easy by handle this issue and I learned fast how to do it, the key: modules.',
 				},
 				{
 					id: 2,
@@ -158,9 +158,9 @@ const projects = [
 		img: require('@/assets/images/projects/ktao app/mobile-project-2.jpg'),
 
 		singleProjectHeader: {
-			singleProjectTitle: 'Web Personal Journal',
-			singleProjectDate: 'Dec 23, 2021',
-			singleProjectTag: 'UI / Frontend',
+			singleProjectTitle: 'An app to track the consume of your house',
+			singleProjectDate: 'Dec 15, 2020',
+			singleProjectTag: 'UI / Frontend / Flutter / Multiplatform',
 		},
 		projectImages: [
 			{
