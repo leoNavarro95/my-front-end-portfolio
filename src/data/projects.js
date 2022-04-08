@@ -158,74 +158,48 @@ const projects = [
 		img: require('@/assets/images/projects/ktao app/mobile-project-2.jpg'),
 
 		singleProjectHeader: {
-			singleProjectTitle: 'An app to track the consume of your house',
+			singleProjectTitle: 'An app to record the electricity consumption of your home',
 			singleProjectDate: 'Dec 15, 2020',
 			singleProjectTag: 'UI / Frontend / Flutter / Multiplatform',
 		},
 		projectImages: [
 			{
 				id: 1,
-				title: 'Personal journal Home',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Home.png'),
+				title: 'Ktao app',
+				img: require('@/assets/images/projects/ktao app/ktao-app.jpg'),
 			},
 			{
 				id: 2,
-				title: 'Personal Journal Login',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Login.png'),
+				title: 'Ktao app 2',
+				img: require('@/assets/images/projects/ktao app/ktao-app-2.jpg'),
 			},
 			{
 				id: 3,
-				title: 'Personal Journal Entry',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Entry.png'),
+				title: 'Ktao app 3',
+				img: require('@/assets/images/projects/ktao app/ktao-app-3.jpg'),
 			},
 			{
 				id: 4,
-				title: 'Personal Journal EntryEd',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-EntryEd.png'),
-			},
-			{
-				id: 5,
-				title: 'Personal Journal Login',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-AddImg.png'),
+				title: 'Ktao app 4',
+				img: require('@/assets/images/projects/ktao app/ktao-app-4.jpg'),
 			},
 		],
 
 		projectInfo: {
 			clientHeading: 'Personal Project',
 			companyInfos: [
-				// {
-				// 	id: 1,
-				// 	title: 'Name',
-				// 	details: 'Company Ltd',
-				// },
-				// {
-				// 	id: 2,
-				// 	title: 'Services',
-				// 	details: 'UI Design & Frontend Development',
-				// },
-				// {
-				// 	id: 3,
-				// 	title: 'Website',
-				// 	details: 'https://company.com',
-				// },
-				// {
-				// 	id: 4,
-				// 	title: 'Phone',
-				// 	details: '555 8888 888',
-				// },
+			
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+				'Objetivos de la app',
 			technologies: [
 				{
 					title: 'Tools & Technologies',
 					techs: [
-						'HTML',
-						'CSS',
-						'JavaScript',
-						'Vue.js',
-						'Firebase'
+						'Flutter',
+						'GetX',
+						'SQL',
 					],
 				},
 			],
