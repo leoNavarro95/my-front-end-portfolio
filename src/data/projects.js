@@ -289,61 +289,27 @@ const projects = [
 		img: require('@/assets/images/projects/pokemon game/web-project-Pokemon.png'),
 
 		singleProjectHeader: {
-			singleProjectTitle: 'Web Personal Journal',
-			singleProjectDate: 'Jul 26, 2021',
-			singleProjectTag: 'UI / Frontend',
+			singleProjectTitle: 'Web Pokemon Game',
+			singleProjectDate: 'Oct 17, 2021',
+			singleProjectTag: 'UI / Frontend / Quiz Game',
 		},
 		projectImages: [
 			{
 				id: 1,
-				title: 'Personal journal Home',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Home.png'),
+				title: 'Pokemon-hide',
+				img: require('@/assets/images/projects/pokemon game/web-project-Pokemon-hide.png'),
 			},
 			{
 				id: 2,
-				title: 'Personal Journal Login',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Login.png'),
-			},
-			{
-				id: 3,
-				title: 'Personal Journal Entry',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-Entry.png'),
-			},
-			{
-				id: 4,
-				title: 'Personal Journal EntryEd',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-EntryEd.png'),
-			},
-			{
-				id: 5,
-				title: 'Personal Journal Login',
-				img: require('@/assets/images/projects/personal journal/PersonalJournal-AddImg.png'),
-			},
+				title: 'Pokemon-show',
+				img: require('@/assets/images/projects/pokemon game/web-project-Pokemon-show.png'),
+			}
 		],
 
 		projectInfo: {
 			clientHeading: 'Personal Project',
 			companyInfos: [
-				// {
-				// 	id: 1,
-				// 	title: 'Name',
-				// 	details: 'Company Ltd',
-				// },
-				// {
-				// 	id: 2,
-				// 	title: 'Services',
-				// 	details: 'UI Design & Frontend Development',
-				// },
-				// {
-				// 	id: 3,
-				// 	title: 'Website',
-				// 	details: 'https://company.com',
-				// },
-				// {
-				// 	id: 4,
-				// 	title: 'Phone',
-				// 	details: '555 8888 888',
-				// },
+				
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
