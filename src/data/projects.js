@@ -192,7 +192,7 @@ const projects = [
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
-				'Objetivos de la app',
+				'This mobile app will allow the user to keep a full electricity registry of his house, business or in general any entity he has. In addition, each electrical consumption record will be displayed in charts that help the user to better understand the consumption of their establishment. In all cases, you will be in a clear and attractive UI. It will also have dark theme selector.',
 			technologies: [
 				{
 					title: 'Tools & Technologies',
@@ -208,22 +208,22 @@ const projects = [
 				{
 					id: 1,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'This is my first mobile app development, I had to learn a lot of new and interesting things: such as the Dart programming language and the Flutter ecosystem. Why Flutter? Well, I have the idea to make this project multiplatform in a early future, so Flutter is my best choice. Also, Flutter is awesome and my short experience with it has been wonderfull!',
 				},
 				{
 					id: 2,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'In this project I had to design from scratch all the UI interface, I learned to work with new concepts to me like hero animations, theme managment, user preferences, and page transitions. Also, I get some tricks from UX design to do this app such as the use of tabs for navigation, floating action button to interact with the interface, and intuitive animation and a wise palette of color for a better user experience.',
 				},
 				{
 					id: 3,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'From the perspective of the database design It has been a really interesting experience to me, I used SQL in that sense and I had to model the tables: Counter, Readings and Consumption to make all the relations between them to make this app work correctly.',
 				},
 				{
 					id: 4,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Currently I have a pre-release of the app in Android Environment that made me to learn about Android configuration such as: Android SDK, packages management, architectures, Android Manifest, and so on...',
 				},
 			],
 			socialSharingsHeading: 'Share This',
