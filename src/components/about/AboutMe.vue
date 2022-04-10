@@ -6,7 +6,7 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Automation Engineer graduate, adept front-end developer focusing on JavaScript mobile-first development. After initialice with Vue.js front-end development, I am eager to continue my career by joining a hardworking and interactive team where I will continue expanding my JavaScript knowledge into perfecting accessibility and responsive design.',
+						'Automation Engineer graduate, adept front-end developer focusing on JavaScript mobile-first development. After initializing with Vue.js front-end development, I am eager to continue my career by joining a hardworking and interactive team where I can or may continue expanding my JavaScript knowledge into perfecting accessibility and responsive design.',
 				},
 				{
 					id: 2,
