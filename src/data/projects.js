@@ -36,26 +36,12 @@ const projects = [
 		projectInfo: {
 			clientHeading: 'Personal Project',
 			companyInfos: [
-				// {
-				// 	id: 1,
-				// 	title: 'Name',
-				// 	details: 'Company Ltd',
-				// },
-				// {
-				// 	id: 2,
-				// 	title: 'Services',
-				// 	details: 'UI Design & Frontend Development',
-				// },
-				// {
-				// 	id: 3,
-				// 	title: 'Website',
-				// 	details: 'https://company.com',
-				// },
-				// {
-				// 	id: 4,
-				// 	title: 'Phone',
-				// 	details: '555 8888 888',
-				// },
+				{
+					id: 1,
+					title: 'Website',
+					link:'https://mi-diario.netlify.app/',
+					details: 'Personal Journal',
+				},
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
@@ -223,7 +209,7 @@ const projects = [
 				{
 					id: 4,
 					details:
-						'Currently I have a pre-release of the app in Android Environment that made me to learn about Android configuration such as: Android SDK, packages management, architectures, Android Manifest, and so on...',
+						'Currently I have a pre-release of the app in Android Environment that made me to learn about this system topics such as: Android SDK, packages management, architectures, Android Manifest, and so on...',
 				},
 			],
 			socialSharingsHeading: 'Share This',
@@ -309,11 +295,16 @@ const projects = [
 		projectInfo: {
 			clientHeading: 'Personal Project',
 			companyInfos: [
-				
+				{
+					id: 1,
+					title: 'Website',
+					link:'https://pokemonjoy.netlify.app/',
+					details: 'Pokemon Game',
+				},
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
-				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
+				'This web app will have a clear and simple UI that will allow the user to have a funny interaction with the quiz game',
 			technologies: [
 				{
 					title: 'Tools & Technologies',
@@ -322,7 +313,8 @@ const projects = [
 						'CSS',
 						'JavaScript',
 						'Vue.js',
-						'Firebase'
+						'Axios',
+						'Pokemon API'
 					],
 				},
 			],
@@ -331,22 +323,22 @@ const projects = [
 				{
 					id: 1,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'This was a really fun project, the development of a quiz game, it has been a wonderful experience. This is my first try to create a "game" and of course it\'s really simple',
 				},
 				{
 					id: 2,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'As I said before, this is a simple web app game so I haven\'t had many issues to develop it, but always there is something that challenged me.',
 				},
 				{
 					id: 3,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+						'The way to make the Pokemon image to hide in a shadow with the shape of it, challenged me, I spend a big amount of time trying to make an algorithm that solves this and in the end a trick of CSS made it and worked like a charm.',
 				},
 				{
 					id: 4,
 					details:
-						'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+						'Work with the Pokemon API does not represent a big deal to me, this API it\'s really easy to use and all the process of request and receive the info was straight forward. I have to manage all the interaction with this API to be asynchronous in a way that the UI doesn\'t get affected by all the requests to the endpoints',
 				},
 			],
 			socialSharingsHeading: 'Share This',
