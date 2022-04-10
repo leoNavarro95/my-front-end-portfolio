@@ -13,7 +13,7 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: '1st Street 15 Virginia, Santa Clara City, Cuba',
+					name: 'Santa Clara, Cuba',
 					icon: 'map-pin',
 				},
 				{
