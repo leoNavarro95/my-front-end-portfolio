@@ -178,7 +178,8 @@ const projects = [
 			],
 			objectivesHeading: 'Objective',
 			objectivesDetails:
-				'This mobile app will allow the user to keep a full electricity registry of his house, business or in general any entity he has. In addition, each electrical consumption record will be displayed in charts that help the user to better understand the consumption of their establishment. In all cases, you will be in a clear and attractive UI. It will also have dark theme selector.',
+			// 'This mobile app will allow the user to keep a full electricity registry of his house, business or in general any entity he has. In addition, each electrical consumption record will be displayed in charts that help the user to better understand the consumption of their establishment. In all cases, you will be in a clear and attractive UI. It will also have dark theme selector.',
+				'This mobile application allows the user to keep a complete record of the electrical energy of their home or business. Each electrical consuption record will be shown in  graphs that help the user to better understand the consumption of their establishment. It has a clear and attractive user interface with an optional dark theme.',
 			technologies: [
 				{
 					title: 'Tools & Technologies',
@@ -194,12 +195,12 @@ const projects = [
 				{
 					id: 1,
 					details:
-						'This is my first mobile app development, I had to learn a lot of new and interesting things: such as the Dart programming language and the Flutter ecosystem. Why Flutter? Well, I have the idea to make this project multiplatform in a early future, so Flutter is my best choice. Also, Flutter is awesome and my short experience with it has been wonderfull!',
+						'In the development of this app I had to learn a lot of new and interesting things: such as the Dart programming language and the Flutter ecosystem. Why Flutter? Well, I have the idea to make this project multiplatform in a early future, so Flutter is my best choice. Also, Flutter is awesome and my experience with it has been wonderfull!',
 				},
 				{
 					id: 2,
 					details:
-						'In this project I had to design from scratch all the UI interface, I learned to work with new concepts to me like hero animations, theme managment, user preferences, and page transitions. Also, I get some tricks from UX design to do this app such as the use of tabs for navigation, floating action button to interact with the interface, and intuitive animation and a wise palette of color for a better user experience.',
+						'In this project I had to design from scratch all the UI interface, I learned to work with new concepts to me like hero animations, theme managment, user preferences, and page transitions. Also, I get some tricks from UX design to do this app, such as the use of tabs for navigation, floating action button to interact with the interface, and intuitive animation and a wise palette of color for a better user experience.',
 				},
 				{
 					id: 3,
