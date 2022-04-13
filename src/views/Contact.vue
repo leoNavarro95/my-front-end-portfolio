@@ -15,16 +15,25 @@ export default {
 					id: 1,
 					name: 'Santa Clara, Cuba',
 					icon: 'map-pin',
+					link: '#'
 				},
 				{
 					id: 2,
-					name: 'potty3800@gmail.com',
+					name: 'e-mail',
 					icon: 'mail',
+					link: 'mailto:potty3800@gmail.com'
 				},
 				{
 					id: 3,
 					name: '(+53) 53 745850',
 					icon: 'phone',
+					link: '#'
+				},
+				{
+					id: 4,
+					name: 'My Linkedin',
+					icon: 'linkedin',
+					link: 'https://www.linkedin.com/in/leonavarro95/'
 				},
 			],
 		};
