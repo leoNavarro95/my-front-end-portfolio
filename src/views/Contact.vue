@@ -13,9 +13,9 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: 'Santa Clara, Cuba',
+					name: 'Miami, Florida',
 					icon: 'map-pin',
-					link: '#'
+					link: 'https://www.google.com/maps/place/Allapattah,+Miami,+FL'
 				},
 				{
 					id: 2,
@@ -25,7 +25,7 @@ export default {
 				},
 				{
 					id: 3,
-					name: '(+53) 53 745850',
+					name: '+1 (786) 674 6538',
 					icon: 'phone',
 					link: '#'
 				},
