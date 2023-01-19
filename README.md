@@ -1,6 +1,6 @@
 # LeoNavarro Portfolio
 
-This is my personal portfolio (coming soon link to deploy).
+This is my personal [portfolio](https://leo-navarro.netlify.app/).
 
 ![Vuejs-TailwindCSS-Portfolio](/public/readme-images/portfolio-mainpage.png)
 
