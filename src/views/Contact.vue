@@ -21,7 +21,7 @@ export default {
 					id: 2,
 					name: 'e-mail',
 					icon: 'mail',
-					link: 'mailto:potty3800@gmail.com'
+					link: 'mailto:leo.navarro.noa@gmail.com'
 				},
 				{
 					id: 3,

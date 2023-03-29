@@ -11,7 +11,7 @@ export default {
 				{
 					id: 2,
 					bio:
-						'I have strong knowledge of: HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind, Flutter and SQL. I am familiar with Node.js in back-end scenario. Enthusiast of Multi-platform front-end development with Flutter',
+						'I have strong knowledge of: HTML, CSS, JavaScript, Vue.js, Bootstrap, Tailwind, WordPress, Flutter and SQL. I am familiar with Node.js and PHP in back-end scenario. Enthusiast of Multi-platform front-end development with Flutter',
 				},
 			],
 		};

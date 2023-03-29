@@ -29,7 +29,7 @@ export default {
 					id: 4,
 					name: 'email',
 					icon: 'mail',
-					url: 'mailto:potty3800@gmail.com',
+					url: 'mailto:leo.navarro.noa@gmail.com',
 				}
 			],
 		};
